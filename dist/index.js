@@ -1,5 +1,5 @@
 /**
- * @ziggy/plugin-sdk
+ * ziggy-sdk
  *
  * SDK for developing custom Ziggy block plugins
  *

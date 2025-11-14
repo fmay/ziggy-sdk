@@ -14,7 +14,7 @@ The Ziggy Plugin SDK enables external developers to create custom workflow block
 ## Installation
 
 ```bash
-npm install -g github:fmay/ziggy-plugin-sdk
+npm install -g github:fmay/ziggy-sdk
 ```
 
 ## Documentation
